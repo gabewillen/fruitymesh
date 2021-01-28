@@ -1,3 +1,5 @@
+== This is a work in progress to port this to Apache NimBLE. 
+
 ifndef::imagesdir[:imagesdir: docs/opensource/modules/ROOT/assets/images]
 image:logo.png[fruitymesh]
 
